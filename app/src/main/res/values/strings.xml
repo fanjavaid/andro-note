@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andro Note</string>
+
+    <string name="search_hint">Search note</string>
+</resources>
